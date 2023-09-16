@@ -1,4 +1,6 @@
-# React + Vite
+# GifExpertApp
+
+Este es mi repositorio del proyecto de Gifs en React de Fernando Herrera.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
